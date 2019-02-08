@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/enochwu/hangman-cli#readme",
   "dependencies": {
-    "inquirer": "^5.0.1",
-    "keypress": "^0.2.1"
+    "inquirer": "^5.2.0",
+    "keypress": "^0.2.1",
+    "npm": "^6.7.0"
   }
 }
